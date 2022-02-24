@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vamsidharr5
-- 👀 I’m interested in Android Development with Java
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android development project
+- 👀 I'm a Manual and Automation test engineer in Selenium with Java with  3 years of work experience
+- 💞️ I'm Looking collaborate as remote test engineer 
 - 📫 How to reach me My phone - +91 8328642551, My mail - Vamsidharr5@gmail.com
 
 <!---
